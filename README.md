@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about coding , music
-- 📫 How to reach me: Via Linkedin.
+- 📫 How to reach me: Linkedin.
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...
 
